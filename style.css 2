@@ -1,0 +1,101 @@
+h1 {
+text-align: center;
+   
+}
+
+header {
+ border-bottom: solid red 10px; 
+ text-align: center;  
+}
+
+
+.ikl {
+width: 134px;  
+height: auto;  
+position: absolute;
+top: 0;
+left: 0;
+
+}
+
+
+h2 {
+
+}
+
+
+.star:hover::before {
+content: "Якщо цікаво,залишайся тут";
+}
+
+
+.star::before{
+content: "********************"; 
+font-size: 25px;  
+}
+
+
+.meee {
+text-align: center; 
+font-size: 30px;  
+border-bottom: double red 10px;
+}
+
+
+.vevr {
+text-align:left ;
+font-size: 20px;  
+color: darkblue;  
+}
+
+
+.pio {
+float: right;
+
+}
+
+
+.kil {
+ font-size: 25px;   
+}
+
+.kio {
+font-size: 23px; 
+text-align: center; 
+color: darkred;  
+}
+
+
+.drr {
+width: 270px; 
+   
+}
+
+
+.ion {
+text-align: right; 
+font-size: 27px; 
+color: darkblue;  
+}
+
+
+.uyy {
+ 
+}
+
+
+.ppp {
+width: auto;
+height: 170px;
+  
+}
+
+.kkk {
+width: auto;
+height: 170px;    
+}
+
+.qqq {
+ width: 160px;
+ height: auto;   
+}
