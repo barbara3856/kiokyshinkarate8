@@ -44,8 +44,9 @@ border-bottom: double red 10px;
 
 .vevr {
 text-align:left ;
-font-size: 20px;  
+font-size: 30px;  
 color: darkblue;  
+
 }
 
 
@@ -56,11 +57,11 @@ float: right;
 
 
 .kil {
- font-size: 25px;   
+ font-size: 30px;   
 }
 
 .kio {
-font-size: 23px; 
+font-size: 30px; 
 text-align: center; 
 color: darkred;  
 }
@@ -74,7 +75,7 @@ width: 270px;
 
 .ion {
 text-align: right; 
-font-size: 27px; 
+font-size: 30px; 
 color: darkblue;  
 }
 
@@ -99,3 +100,16 @@ height: 170px;
  width: 160px;
  height: auto;   
 }
+
+
+a { 
+text-decoration: none;
+font-size: 20px;
+border: 4px dotted black;
+padding: 16px;
+border-radius: 16px;
+color: red;
+}
+
+
+
